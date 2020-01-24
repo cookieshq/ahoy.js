@@ -1,4 +1,4 @@
-# Ahoy.js
+# Ahoy.js (patched)
 
 :fire: Visit and event tracking for JavaScript
 
