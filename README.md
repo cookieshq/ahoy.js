@@ -1,5 +1,13 @@
 # Ahoy.js (patched)
 
+> ! This npm module was patched to keep it from running on `import` by setting `startOnReady` on start. Use [patch package](https://github.com/ds300/patch-package) to patch Ahoy on your project.
+
+## Installing
+
+```bash
+npm install git+https://git@github.com:cookieshq/ahoy.js.git
+```
+
 :fire: Visit and event tracking for JavaScript
 
 - Easily track unique visitors
